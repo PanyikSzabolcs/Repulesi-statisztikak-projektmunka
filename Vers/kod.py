@@ -17,5 +17,7 @@ atlag = osszeg // db
 
 print(atlag)
 
+print(atlag)
+
             
 
